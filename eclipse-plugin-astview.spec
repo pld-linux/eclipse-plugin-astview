@@ -1,5 +1,5 @@
 Summary:	AST View - a view to visualize the AST (abstract syntax tree) of a Java file open in the editor
-Summary(pl):	AST View - widok wizualizuj±cy AST (abstrakcyjne drzewo sk³adni) otwartego pliku w Javie
+Summary(pl.UTF-8):   AST View - widok wizualizujÄ…cy AST (abstrakcyjne drzewo skÅ‚adni) otwartego pliku w Javie
 Name:		eclipse-plugin-astview
 Version:	1.1.3
 Release:	2
@@ -18,11 +18,11 @@ A view to visualize the AST (abstract syntax tree) of a Java file open
 in the editor. Navigate from text selection to AST nodes and from
 nodes to selections. Show bindings and compare them.
 
-%description -l pl
-Widok wizualizuj±cy AST (abstrakcyjne drzewo sk³adni) pliku w Javie
-otwartego w edytorze. Pozwala przechodziæ od zaznaczenia tekstu do
-wêz³ów AST oraz od wêz³ów do zaznaczenia, a tak¿e pokazywaæ i
-porównywaæ dowi±zania.
+%description -l pl.UTF-8
+Widok wizualizujÄ…cy AST (abstrakcyjne drzewo skÅ‚adni) pliku w Javie
+otwartego w edytorze. Pozwala przechodziÄ‡ od zaznaczenia tekstu do
+wÄ™zÅ‚Ã³w AST oraz od wÄ™zÅ‚Ã³w do zaznaczenia, a takÅ¼e pokazywaÄ‡ i
+porÃ³wnywaÄ‡ dowiÄ…zania.
 
 %prep
 
