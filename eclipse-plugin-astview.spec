@@ -2,7 +2,7 @@ Summary:	AST View - a view to visualize the AST (abstract syntax tree) of a Java
 Summary(pl.UTF-8):	AST View - widok wizualizujący AST (abstrakcyjne drzewo składni) otwartego pliku w Javie
 Name:		eclipse-plugin-astview
 Version:	1.1.3
-Release:	2
+Release:	3
 License:	EPL v1.0
 Group:		Development/Languages
 Source0:	http://www.eclipse.org/jdt/ui/update-site/plugins/org.eclipse.jdt.astview_%{version}.jar
